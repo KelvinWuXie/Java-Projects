@@ -1,0 +1,6 @@
+John Smith 123456789 123456 Checking $ 57.81
+Ryan Choi 987654321 654321 Savings $ 0.01 
+Bruce Wayne 777777777 666666 CofD $100000.01
+Diana Prince 000000001 232123 Checking $ 8567.10
+Clark Kent 555555555 121233 Savings $ 54333.23
+Jay Park 123098322 111111 Checking $ 0.00
